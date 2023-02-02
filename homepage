@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+ <html>
+    
+
+    <head>
+    <title>Mayhem Boyz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="csseve.css">
+    </head>
+    <body>
+        <div class="box1" >
+        <h1 class="mayhem">Mayhem Boyz</h1>
+        <h1 class="mayhem2" >Manifesto Doctrines Industry History Merchandise</h1>
+        <h1 class="h12">Small scale PVP at it’s best</h1>  
+        <h1 class="h13">Looking for a new corporation?</h1>
+        <h1 class="h13">Apply today, fly with us tomorrow.</h1>
+        <button class="b1">Apply Now</button> 
+        <button class="b1">Read More</button> 
+        
+
+    </div>
+        <div class="box2">
+        <h1 class="h11">We care about your goals and ambitions.</h1>
+        <h1 class="h11">We believe that small-scale PVP operations can deliver</h1>
+        <h1 class="h11">the biggest impact on the battlefield.</h1>   
+              
+    </div>
+        <div class="box3">
+        <img class="img1" src="https://i.ibb.co/ZfqFMvg/Image-With-Text-1.png" alt="Manifesto">
+        <img class="img2" src="https://i.ibb.co/WPH9gYN/Image-With-Text.png" alt="Doctrines">   
+        <p class="p1">Learn why we are the very best at what we do. We have been</p>
+        <p class="p2">everywhere in EVE and have done anything you’d think of.</p>
+        <p class="p3">Get to know our efficient, doctrines for PVP. We know how to</p>
+        <p class="p4">fly economically to be ready on death.</p>
+
+    </div>        
+    </body>
+
+
+ </html>
